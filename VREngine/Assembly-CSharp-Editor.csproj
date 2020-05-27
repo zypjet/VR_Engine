@@ -324,32 +324,32 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
-    <Reference Include="DOTweenEditor">
-      <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween46">
-      <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTweenProEditor">
-      <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween50">
-      <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTween/DOTween50.dll</HintPath>
-    </Reference>
     <Reference Include="DemiLib">
       <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
     </Reference>
     <Reference Include="DemiEditor">
       <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DemiLib/Core/Editor/DemiEditor.dll</HintPath>
     </Reference>
-    <Reference Include="DOTween43">
-      <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
-    </Reference>
     <Reference Include="DOTween">
       <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
     </Reference>
+    <Reference Include="DOTween43">
+      <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween46">
+      <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween50">
+      <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTween/DOTween50.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenEditor">
+      <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
+    </Reference>
     <Reference Include="DOTweenPro">
       <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTweenProEditor">
+      <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>H:/UnityProject/VR_Engine/VREngine/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>

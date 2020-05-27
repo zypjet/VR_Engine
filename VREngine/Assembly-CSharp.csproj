@@ -678,20 +678,20 @@
     <Reference Include="UnityEngine.XRModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
+    <Reference Include="DemiLib">
+      <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween43">
+      <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
+    </Reference>
     <Reference Include="DOTween46">
       <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTween/DOTween46.dll</HintPath>
     </Reference>
     <Reference Include="DOTween50">
       <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTween/DOTween50.dll</HintPath>
-    </Reference>
-    <Reference Include="DemiLib">
-      <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween43">
-      <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTween/DOTween43.dll</HintPath>
-    </Reference>
-    <Reference Include="DOTween">
-      <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenPro">
       <HintPath>H:/UnityProject/VR_Engine/VREngine/Assets/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
